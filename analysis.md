@@ -1,4 +1,4 @@
-# Draft
+# Global Terrorism in Numbers: A Data Analytics Study
 
 
 ```python
@@ -212,7 +212,7 @@ plt.grid(axis='x')
 
 
     
-![png](analysisv2_files/analysisv2_14_0.png)
+![png](analysis_files/analysis_14_0.png)
     
 
 
@@ -243,7 +243,7 @@ plt.show()
 
 
     
-![png](analysisv2_files/analysisv2_17_0.png)
+![png](analysis_files/analysis_17_0.png)
     
 
 
@@ -256,7 +256,7 @@ Stable Regions:
 - Regions like Australasia & Oceania and East Asia have relatively low incident counts, suggesting greater political stability and less susceptibility to global terrorist trends during the analyzed period.
 
 Emerging Patterns:
-- Sub-Saharan Africa's high number of incidents highlights the increasing activity of groups such as Boko Haram and Al-Shabaab, particularly in the 2010s.
+- Sub-Saharan Africa's high number of incidents highlights the increasing activity of groups such as Boko Haram and Al-Shabaab, particularly in the 2010s (Institute for Economics and Peace, 2020).
 
 
 
@@ -275,7 +275,7 @@ plt.show()
 
 
     
-![png](analysisv2_files/analysisv2_20_0.png)
+![png](analysis_files/analysis_20_0.png)
     
 
 
@@ -311,7 +311,7 @@ plt.show()
 
 
     
-![png](analysisv2_files/analysisv2_22_0.png)
+![png](analysis_files/analysis_22_0.png)
     
 
 
@@ -351,7 +351,7 @@ plt.show()
 
 
     
-![png](analysisv2_files/analysisv2_25_0.png)
+![png](analysis_files/analysis_25_0.png)
     
 
 
@@ -410,20 +410,15 @@ These insights highlight the need for targeted interventions in hotspots like ur
 
 
 ## References:
-- Byman, D. (2016). Understanding the Islamic State: A review essay. *International Security*, 40(4), 127-165.  
-  Retrieved from [MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/ISEC_a_00234)
+- Byman, D. (2016). Understanding the Islamic State: A review essay. *International Security*, 40(4), 127–165. Retrieved from [MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/ISEC_a_00234)
 
-- Institute for Economics and Peace. (2020). *Global Terrorism Index 2020: Measuring the impact of terrorism.*  
-  Retrieved from [Institute for Economics and Peace](https://www.economicsandpeace.org/reports)
+- Institute for Economics and Peace. (2020). *Global Terrorism Index 2020: Measuring the impact of terrorism.* Retrieved from [Institute for Economics and Peace](https://www.economicsandpeace.org/reports)
 
-- Laub, Z. (2017). The Islamic State. *Council on Foreign Relations*.  
-  Retrieved from [CFR](https://www.cfr.org/backgrounder/islamic-state)
+- Laub, Z. (2017). The Islamic State. *Council on Foreign Relations.* Retrieved from [CFR](https://www.cfr.org/backgrounder/islamic-state)
 
-- START. (2019). *Global Terrorism Database Codebook: Methodology*.  
-  Retrieved from [START UMD](https://www.start.umd.edu/gtd)
+- Pape, R. A. (2003). The strategic logic of suicide terrorism. *American Political Science Review*, 97(3), 343–361.
 
-- World Health Organization. (2019). Emergency response to terrorist attacks: Guidelines. Retrieved from https://www.who.int.
+- START. (2019). *Global Terrorism Database Codebook: Methodology.* Retrieved from [START UMD](https://www.start.umd.edu/gtd)
 
-- Pape, R. A. (2003). The strategic logic of suicide terrorism. American Political Science Review, 97(3), 343-361.
-
+- World Health Organization. (2019). *Emergency response to terrorist attacks: Guidelines.* Retrieved from [WHO](https://www.who.int)
 
